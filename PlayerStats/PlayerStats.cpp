@@ -29,7 +29,7 @@ bool FinalizeChoice(string);
 const string INPUT_FILE_NAME = "PlayerStats.txt";
 const string OUTPUT_FILE_NAME = "PlayerStatsFile.txt";
 
-// Declare a team vector to hold all team objects.
+// Declare a team vector to hold all teams.
 vector<Team> teamVector;
 
 int main()

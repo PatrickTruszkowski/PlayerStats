@@ -23,7 +23,7 @@ void DisplayAllTeams(Player&);
 Team& HandleTeamSelection();
 void ExportToFile();
 int GetValidChoice(int, int);
-bool FinalizeChoice(string);
+bool FinalizeChoice(string); // Test
 
 // Create constants for the files names to prevent typos.
 const string INPUT_FILE_NAME = "PlayerStats.txt";
